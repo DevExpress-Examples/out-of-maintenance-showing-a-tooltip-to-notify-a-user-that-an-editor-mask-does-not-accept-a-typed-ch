@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[CustomEdit.cs](./CS/T223817/CustomEdit.cs) (VB: [CustomEdit.vb](./VB/T223817/CustomEdit.vb))**
+* [MainForm.cs](./CS/T223817/MainForm.cs) (VB: [MainForm.vb](./VB/T223817/MainForm.vb))
+<!-- default file list end -->
 # Showing a tooltip to notify a user that an editor mask does not accept a typed character
 
 
